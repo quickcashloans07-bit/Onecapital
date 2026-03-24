@@ -11,12 +11,14 @@ const Contact = () => {
             <h2 className="text-4xl font-mono font-bold mb-6">Get in touch</h2>
             <div className="space-y-4 text-muted-foreground">
               <div>
-                <p className="font-mono font-bold text-foreground mb-1">Address</p>
-                <p>595 Market St #200, San Francisco, CA 94105, USA</p>
+                <p className="font-mono font-bold text-foreground mb-1">California Address</p>
+                <p>Block - B, 66 Hutton Centre Dr #330, Santa Ana, CA 92707</p>
+                <p className="font-mono font-bold text-foreground mt-4 mb-1">Virginia Address</p>
+                <p>Block - A, 19 Church Ave SE, Roanoke, VA 24011</p>
               </div>
               <div>
                 <p className="font-mono font-bold text-foreground mb-1">Contacts</p>
-                <p>+1 (818) 252-9640<br />+1 (818) 252-9985</p>
+                <p>+1 (757)-303-7922</p>
               </div>
             </div>
           </div>

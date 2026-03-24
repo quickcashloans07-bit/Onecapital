@@ -210,22 +210,14 @@ const ApplyLoan = () => {
               </div>
 
               <div className="w-full">
-                  <label className="block text-gray-700 mb-2" style={{ fontSize: "20px" }}>Select Loan Amount*</label>
-                  <select 
-                    name="select loan" 
+                  <label className="block text-gray-700 mb-2" style={{ fontSize: "20px" }}>Loan Amount*</label>
+                  <input 
+                    type="text" 
+                    name="Loan Amount" 
+                    placeholder="Enter Loan Amount (e.g. 5000)" 
                     required 
                     className="w-full px-4 py-3 border border-gray-300 rounded focus:outline-none focus:border-blue-500 bg-white"
-                  >
-                      <option value="2,000">$2,000</option>
-                      <option value="3,000">$3,000</option>
-                      <option value="4,000">$4,000</option>
-                      <option value="5,000">$5,000</option>
-                      <option value="6,000">$6,000</option>
-                      <option value="7,000">$7,000</option>
-                      <option value="8,000">$8,000</option>
-                      <option value="9,000">$9,000</option>
-                      <option value="10,000">$10,000</option>
-                  </select>
+                  />
               </div>
 
             </div>

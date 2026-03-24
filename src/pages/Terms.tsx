@@ -91,8 +91,9 @@ const Terms = () => {
                 <p>
                    For questions regarding these terms, please contact us at:<br />
                    Email: legal@unitedcapitallending.com<br />
-                   Phone: +1 (818) 252-9640 / +1 (818) 252-9985<br />
-                   Address: 595 Market St #200, San Francisco, CA 94105, USA
+                   Phone: +1 (757)-303-7922<br />
+                   California Address: Block - B, 66 Hutton Centre Dr #330, Santa Ana, CA 92707<br />
+                   Virginia Address: Block - A, 19 Church Ave SE, Roanoke, VA 24011
                 </p>
               </section>
             </div>
